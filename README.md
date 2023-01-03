@@ -7,6 +7,10 @@ Suppose you are selling lego technic sets with 2050+ peices on eBay. How do you 
 
 Probably overkill, but potentially useful.
 
+Find partslists for your model at https://brickset.com/inventories/8110-1 and download as csv. Save as json using https://www.convertcsv.com/csv-to-json.htm. Paste into the top of app.css. 
+
+###Notice- there is no save functionality implemented yet- you may copy/paste state as you please! 
+
 The codebase is chock-full of exciting 'features', please only use as an inspiration incubator, as it is utter garbage!
 
 
