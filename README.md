@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with lego-parts-list
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Suppose you are selling lego technic sets with 2050+ peices on eBay. How do you keep track of all the parts? This app aims to o simplify this process by allowing you to count the number of pieces in each individual section (whatever you define that to be!) and make sure all the totals match! 
+![image](https://user-images.githubusercontent.com/72658447/210348142-0f0433cf-0f00-4916-9bb2-b45206d64f1b.png)
+
+Probably overkill, but potentially useful.
+
+The codebase is chock-full of exciting 'features', please only use as an inspiration incubator, as it is utter garbage!
+
 
 ## Available Scripts
 
